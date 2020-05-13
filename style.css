@@ -5,24 +5,25 @@ body {
 }
 
 span{
-	font-size: 14px;
+	font-size: 18px;
 	color: #000;
 	transition: 0.3s;
 }
 
 img{
-	width: 100px;
-	border-radius: 65px;
+	width: 170px;
+	border-radius: 800px;
 	margin: 10px 15px 0 0;
 }
 
 table {
-	margin: 0;
+	margin: 5px;
 	float: right;
 }
 
 table tr td:first-child {
-	padding-right: 5px;
+	padding: 1px 5px 1px 1px;
+	
 }
 
 a {
@@ -53,7 +54,7 @@ a:hover {
 }
 
 .intro {
-	margin: 150px 0 90px 0;
+	margin: 100px 0 90px 0;
 	text-align: center;
 }
 
